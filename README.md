@@ -1,1 +1,2 @@
-# alphabeta
+# alphabeta parallel tree search
+
